@@ -1,0 +1,19 @@
+{
+    "name": "randy/test",
+    "description": "cehsi",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Randy",
+            "email": "284431745@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "randy\\test\\": "src/randy/test"
+        }
+    }
+}
